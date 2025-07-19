@@ -16,7 +16,7 @@ This machine learning project predicts whether an employee earns more than $50K/
 pip install -r requirements.txt
 1. Run the notebook:
 
-jupyter notebook employee_salary_prediction.ipynb
+jupyter notebook Employee Salary Prediction using Gradient Boosting.ipynb
 
 ## ✅ Model Used
 - `GradientBoostingClassifier` from scikit-learn
@@ -24,7 +24,7 @@ jupyter notebook employee_salary_prediction.ipynb
 - Accuracy: ~86%
 
 ## 📁 Files
-- `employee_salary_prediction.ipynb` – Jupyter notebook
+- `Employee Salary Prediction using Gradient Boosting.ipynb` – Jupyter notebook
 - `requirements.txt` – Required Python libraries
 - `README.md` – Project documentation
 
